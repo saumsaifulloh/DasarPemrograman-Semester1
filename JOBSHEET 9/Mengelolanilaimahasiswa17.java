@@ -46,4 +46,3 @@ public class Mengelolanilaimahasiswa17 {
         System.out.println("Diperoleh oleh Mahasiswa ke: " + min);
     }
 }
-    
